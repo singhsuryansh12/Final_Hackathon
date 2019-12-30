@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "352064371200",
+    "firebase_url": "https://studentguide-f7836.firebaseio.com",
+    "project_id": "studentguide-f7836",
+    "storage_bucket": "studentguide-f7836.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352064371200:android:0a575d896cb14b3f5cb6e5",
+        "android_client_info": {
+          "package_name": "com.devansh03_revenant_codeasylums.revenant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352064371200-guvnsrioha4ps18qhp48202qq4gv1dko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.devansh03_revenant_codeasylums.revenant",
+            "certificate_hash": "8f6cf202bb9490c59e15ebb9bc25e323e693d42b"
+          }
+        },
+        {
+          "client_id": "352064371200-t0nml29lu5lbsjl29ge7pnavmpnmc04l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwFiIsXOnOlxChlULyGFA2t6l7w6trlAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352064371200-t0nml29lu5lbsjl29ge7pnavmpnmc04l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
